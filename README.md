@@ -9,7 +9,7 @@ Like with Lunar Address JS, I originally attempted to anaylze the program with I
 
 This app can be accessed in your browser with the link below:
 
-http://romh-acking.github.io/lunar-expand-JS
+https://romh-acking.github.io/lunar-expand-JS/
 
 ## Limitations / Differences
 * I excluded the option to convert from LoRom to HiRom and vice versa. 
