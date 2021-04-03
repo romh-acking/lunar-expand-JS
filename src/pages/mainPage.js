@@ -23,6 +23,7 @@ import TableContainer from '@material-ui/core/TableContainer';
 import TableRow from '@material-ui/core/TableRow';
 import Tooltip from '@material-ui/core/Tooltip';
 
+import mainLogo from'../assets/moon.svg';
 
 const useStyles = makeStyles((theme) => ({
   formControl: {
@@ -172,9 +173,17 @@ export default function Users() {
       <Paper className={classes.paper}>
         <Grid container justify="space-between" alignItems="flex-start">
           <Grid item>
-            <Typography gutterBottom variant="h4">
-              Lunar Expand JS
-            </Typography>
+            
+
+          <Grid container direction="row" alignItems="center">
+             <Grid item>
+             <img src={mainLogo}></img>
+              </Grid>
+            <Grid item>
+            <Typography variant="h4">&nbsp;&nbsp;Lunar Expand JS</Typography>
+            </Grid>
+             </Grid>
+
           </Grid>
 
           <Grid item>

@@ -34,7 +34,7 @@ export default function AlertDialog() {
             This program is not endorsed or supported by Nintendo, and the author is not affiliated with any other corporate entity.<br />
             The program is freeware and provided "AS IS"...<br />
             The author cannot be held liable for damages of any kind arising from its use or presence.<br /><br />
-            JavaScript Port Based on this Version:<br />
+            JavaScript Port Based on this Version of Lunar Expand:<br />
             Version 1.14<br />
             Public Build --- May 22 2010<br /><br />
             Originally By: FuSoYa<br />
