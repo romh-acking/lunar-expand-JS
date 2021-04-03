@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lunar-expand-JS/static/js/main.b4f21962.chunk.js",
+    "main.js.map": "/lunar-expand-JS/static/js/main.b4f21962.chunk.js.map",
+    "runtime-main.js": "/lunar-expand-JS/static/js/runtime-main.291b8a2a.js",
+    "runtime-main.js.map": "/lunar-expand-JS/static/js/runtime-main.291b8a2a.js.map",
+    "static/js/2.f1043501.chunk.js": "/lunar-expand-JS/static/js/2.f1043501.chunk.js",
+    "static/js/2.f1043501.chunk.js.map": "/lunar-expand-JS/static/js/2.f1043501.chunk.js.map",
+    "index.html": "/lunar-expand-JS/index.html",
+    "static/js/2.f1043501.chunk.js.LICENSE.txt": "/lunar-expand-JS/static/js/2.f1043501.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291b8a2a.js",
+    "static/js/2.f1043501.chunk.js",
+    "static/js/main.b4f21962.chunk.js"
+  ]
+}
